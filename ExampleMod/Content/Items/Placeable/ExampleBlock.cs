@@ -15,7 +15,7 @@ namespace ExampleMod.Content.Items.Placeable
 			// Sorry Itorius, I feel you
 
 			// DisplayName.AddTranslation(GameCulture.German, "Beispielblock");
-			// Tooltip.AddTranslation(GameCulture.German, "Dies ist ein modded Block");
+			// Tooltip.AddTranslation(GameCulture.Mod, "Dies ist ein modded Block");
 			// DisplayName.AddTranslation(GameCulture.Italian, "Blocco di esempio");
 			// Tooltip.AddTranslation(GameCulture.Italian, "Questo è un blocco moddato");
 			// DisplayName.AddTranslation(GameCulture.French, "Bloc d'exemple");
